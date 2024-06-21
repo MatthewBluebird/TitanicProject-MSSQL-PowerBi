@@ -1,5 +1,5 @@
 # TitanicProject-MSSQL-PowerBi
-### DATASET https://www.kaggle.com/datasets/yasserh/titanic-dataset
+### DATASET https://www.kaggle.com/datasets/vinicius150987/titanic3
 
 # About Dataset
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
